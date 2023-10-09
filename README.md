@@ -159,3 +159,5 @@ cls : 화면 지우기
   * git tag -a 태그 : 태그 등록</br>
 		  -l "태그명 패턴"
    * ESC -> :  -> wq 엔터
+![image](https://github.com/somi9954/git_exam2/assets/137499604/5096c0ed-59a2-4ba8-a931-7648384ea121)
+
