@@ -160,4 +160,5 @@ cls : 화면 지우기
 		  -l "태그명 패턴"
    * ESC -> :  -> wq 엔터
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/5096c0ed-59a2-4ba8-a931-7648384ea121)
+![image](https://github.com/somi9954/git_exam2/assets/137499604/27486e59-a56c-43a0-8c54-b91321ad93aa)
 
