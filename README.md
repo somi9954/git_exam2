@@ -155,7 +155,7 @@ cls : 화면 지우기
 * .gitignore 원격 레포지토리 반영 제외
 	
 * 태그 - 버전별 / 릴리즈(배포)
- * git tag -> 현재 태그 목록 
- * git tag -a 태그 : 태그 등록</br>
+  * git tag -> 현재 태그 목록 
+  * git tag -a 태그 : 태그 등록</br>
 		  -l "태그명 패턴"
- * ESC -> :  -> wq 엔터
+   * ESC -> :  -> wq 엔터
