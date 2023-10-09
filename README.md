@@ -19,7 +19,7 @@
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/ec9ac509-eb06-4e7f-8e72-193bbde11b83)
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/e335ca7e-8e3e-4f8d-b67f-91ed0a61bf41)
 
-
+-----
 ### 로컬 레포지토리(로컬 저장소)
 * 형상(버전)을 관리, 저장할수 있는 공간
   
@@ -162,3 +162,5 @@ cls : 화면 지우기
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/5096c0ed-59a2-4ba8-a931-7648384ea121)
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/27486e59-a56c-43a0-8c54-b91321ad93aa)
 
+-----
+참고 : https://github.com/yonggyo1125
