@@ -162,5 +162,15 @@ cls : 화면 지우기
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/5096c0ed-59a2-4ba8-a931-7648384ea121)
 ![image](https://github.com/somi9954/git_exam2/assets/137499604/27486e59-a56c-43a0-8c54-b91321ad93aa)
 
+* git 레파지토리 삭제 방법
+  ```cmd
+  git remote remove origin
+  ```
+  * 명령어 입력 후 git remote -v를 입력시에 아무것도 나오지 않습니다.
+* 그 이후 아래의 명령어를 입력하면 원하는 새로운 레파지토리를 등록할 수 있습니다.
+```cmd
+  git remote add origin https://~~~~ 
+```
+
 -----
 참고 : https://github.com/yonggyo1125
